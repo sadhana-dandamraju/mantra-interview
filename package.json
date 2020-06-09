@@ -1,0 +1,26 @@
+{
+  "name": "mantra-interview",
+  "version": "1.0.0",
+  "description": "mantra-interview-questions",
+  "main": "q1.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "latest",
+    "request": "latest",
+    "node-localStorage": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadhana-dandamraju/mantra-interview.git"
+  },
+  "author": "sadhana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadhana-dandamraju/mantra-interview/issues"
+  },
+  "homepage": "https://github.com/sadhana-dandamraju/mantra-interview#readme"
+}
