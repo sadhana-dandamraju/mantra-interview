@@ -2,8 +2,11 @@
 var LocalStorage = require('node-localStorage').LocalStorage;
 localStorage=new LocalStorage('/scratch');
 
+
+
 function fetch_cached(){
-    if(localStorage.getItem("result")==null){
+	console.log(localStorage.getItem("result"));
+    if(localStorage.getItem("result")==null || localStorage.getItem("result")==undefined){
         getFromLocalCache();
     }
     else{

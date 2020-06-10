@@ -6,8 +6,9 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cheerio": "latest",
-    "request": "latest",
-    "node-localStorage": "latest"
+    "localstorage": "^1.0.1",
+    "node-localstorage": "^2.1.6",
+    "request": "latest"
   },
   "devDependencies": {},
   "scripts": {
