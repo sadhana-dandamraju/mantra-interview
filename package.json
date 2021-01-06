@@ -4,7 +4,7 @@
   "description": "mantra-interview-questions",
   "main": "q1.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "latest",
     "localstorage": "^1.0.1",
     "node-localstorage": "^2.1.6",
